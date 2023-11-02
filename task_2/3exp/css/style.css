@@ -1,0 +1,51 @@
+.header__top{
+    background-color: #333333;
+    padding: 3px;
+    color: white;
+    padding-inline: 100px;
+}
+.ul_nav__top {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    font-family: 'AristocratSwash';
+    padding: 10px;
+    padding-block: 20px;
+    justify-content: space-between;
+    width: 450px;
+}
+body {
+    margin: 0 auto;
+    background-color: #333333;
+}
+a:link {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #ff0000;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+a:active {
+    text-decoration: none;
+    color: #540000;
+}
+.carousel-inner{
+    width: 100%;
+    border-radius: 70px;
+}
+.container{
+    display: flex;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 50px;
+    justify-content: space-between;
+    width: 100%;
+}
